@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiranpreetsingh
-- 👀 I’m interested in learning Web3
-- 🌱 I’m currently learning Solidity and React
+- 👀 I’m interested in learning Data Science
+- 🌱 I’m currently learning Python, Mysql and Statistics
 - 📫 How to reach me Linkedin
 
 <!---
